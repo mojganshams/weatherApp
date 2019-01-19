@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="colorPrimary">#0091b7</color>
+    <color name="colorPrimaryDark">#02a8d4</color>
+    <color name="colorAccent">#3ba9c6</color>
+    <color name="Textfild">#eee</color>
+    <color name="mainpanel">#ffffff</color>
+    <color name="mainpaneldata">#dc003591</color>
+    <color name="backgrand">#dc003cbf</color>
+
+    <color name="corner_radius">#f30050bf</color>
+    <color name="texteditbox">#00617e</color>
+    <color name="button">#006dda</color>
+    <color name="trans">#00ffffff</color>
+
+    <color name="cardfalse">#75ff0044</color>
+    <color name="cardtrue">#ffffff</color>
+    <color name="cardemty">#b5f1d718</color>
+    <color name="backgranddilog">#00617e</color>
+
+
+    <color name="backgrandqr">#922e2e2e</color>
+
+    <color name="selectDay">#e01015</color>
+    <color name="currentDay">#ffffff</color>
+
+
+    <color name="hint">#a4a4a4</color>
+
+    <color name="swich">#001835</color>
+
+    <color name="target">#00cfba</color>
+
+    <color name="red">#55ff0000</color>
+    <color name="green">#4c00da00</color>
+    <color name="darkGreen">#04870e</color>
+
+    <color name="yellow">#ffe100</color>
+
+    <color name="reddialog">#ddff0000</color>
+    <color name="gerandialog">#f500da00</color>
+
+    <!--Splash Screen-->
+    <color name="first_slide_background">#ec5edb</color>
+    <color name="first_slide_buttons">#c74bd2</color>
+
+    <color name="one_slide_background">#1cdaa4</color>
+    <color name="one_slide_buttons">#009774</color>
+
+    <color name="second_slide_background">#9C27B0</color>
+    <color name="second_slide_buttons">#4A148C</color>
+
+    <color name="fourth_slide_background">#aae13e</color>
+    <color name="fourth_slide_buttons">#8cbc25</color>
+
+    <color name="third_slide_background">#ef6736</color>
+    <color name="third_slide_buttons">#9e4334</color>
+
+    <color name="custom_slide_background">#3653f2</color>
+    <color name="custom_slide_buttons">#1926a6</color>
+
+
+    <color name="f_slide_background">#00ab94</color>
+    <color name="f_slide_buttons">#26cea3</color>
+
+
+    <color name="custom2_slide_background">#7c1ce9</color>
+    <color name="custom2_slide_buttons">#5119b9</color>
+
+    <color name="custom3_slide_background">#f48413</color>
+    <color name="custom3_slide_buttons">#f9b551</color>
+    <!--Splash Screen-->
+
+
+    <item name="splash_background" type="color">@color/colorPrimary</item>
+
+    <color name="transparentGray">#99000000</color>
+
+    <color name="dropDownContainerColor">#d32f2f</color>
+
+    <color name="dropDownSelectedColor">#b71c1c</color>
+
+
+    <!--وحید-->
+
+    <color name="lightGray">#eeeeee</color>
+    <color name="gray">#757575</color>
+    <color name="darkRed">#FFB71C1C</color>
+    <color name="primary">#008577</color>
+    <color name="primaryDark">#00574B</color>
+    <color name="accent">#D81B60</color>
+
+    <color name="weather_text_color">#6d6d6d</color>
+    <color name="weather_primary_dark">#EF6C00</color>
+    <color name="weather_blue">#2196F3</color>
+    <color name="weather_gradient_start">#30000000</color>
+
+    <color name="transparentToolbar">#33000000</color>
+</resources>
